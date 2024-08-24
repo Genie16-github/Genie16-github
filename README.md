@@ -1,7 +1,4 @@
 ## 👋 Hi there, I'm JaeBeom Lee
-#### I wanna be a **web back-end developer.**<br/> 
-#### I'll experience more diverse projects with the more people!<br/>
-#### Go for it!! :rocket::rocket:<br/><br/>
 
 <!--
 **Genie16-github/Genie16-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
