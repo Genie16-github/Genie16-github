@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm JaeBeom Lee
+## 👋 Hi there, It's JaeBeom Lee
 
 <!--
 **Genie16-github/Genie16-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,13 +31,9 @@ Here are some ideas to get you started:
 <br/>
 
 ## :muscle: Skills
-### Tech
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white"/><br/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/> <img src="https://img.shields.io/badge/NginxProxyManager-F15833?style=flat-square&logo=NginxProxyManager&logoColor=white"/> <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/GithubActions-2088FF?style=flat-square&logo=GithubActions&logoColor=white"/><br/> <img src="https://img.shields.io/badge/Mariadb-003545?style=flat-square&logo=Mariadb&logoColor=white"/>
 
 <br/>
-
-### Tools
-<img src="https://img.shields.io/badge/IntelliJ IDEA-0052CC?style=flat-square&logo=IntelliJ IDEA&logoColor=black"/> <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/> <img src="https://img.shields.io/badge/Pycharm-1DA456?style=flat-square&logo=Pycharm&logoColor=white"/>
 
 <br/>
 
